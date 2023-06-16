@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-* main - A program that prints the size of various data types
+* main - A program that prints the size of various Ddata types
 *
 * Return: Always 0 (Success)
 */
