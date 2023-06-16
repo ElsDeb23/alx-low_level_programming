@@ -2,10 +2,10 @@
 #include <unistd.h>
 
 /**
- * main - Entry data type
- *
- * Return: Always 1 (Success)
- */
+* main - Entry data type
+*
+* Return: Always 1 (Success)
+*/
 int main(void)
 {
 	write(2,
