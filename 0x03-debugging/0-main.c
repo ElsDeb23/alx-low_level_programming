@@ -2,7 +2,7 @@
 
 
 /**
- * main - function for positive or negative
+ * main - Testing function for positive or negative
  * Return: 0
  */
 
